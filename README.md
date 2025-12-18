@@ -1,7 +1,7 @@
 IoT Risk Assessment Tool
 📌 Overview
 
-The IoT Risk Assessment Tool is a software solution designed to identify, analyze, and assess potential security risks in Internet of Things (IoT) environments. It helps users understand vulnerabilities associated with connected devices and supports informed decision-making to improve overall system security.
+The IoT Risk Assessment Tool is a software solution designed to identify, analyse, and assess potential security risks in Internet of Things (IoT) environments. It helps users understand vulnerabilities associated with connected devices and supports informed decision-making to improve overall system security.
 
 🚀 Features
 
@@ -14,16 +14,6 @@ Risk scoring and prioritisation
 User-friendly interface for easy analysis
 
 Helps in planning mitigation strategies
-
-🛠️ Tech Stack
-
-Programming Language: [Add here – e.g., Python / JavaScript]
-
-Frontend: [If applicable]
-
-Backend: [If applicable]
-
-Database: [If applicable]
 
 ⚙️ How It Works
 
@@ -45,10 +35,6 @@ IoT-Risk-Assessment-Tool/
 ├── assets/         # Images or resources
 ├── README.md       # Project documentation
 └── requirements    # Dependencies
-
-▶️ Installation & Usage
-# Clone the repository
-git clone https://github.com/your-username/IoT-Risk-Assessment-Tool.git
 
 # Navigate to the project directory
 cd IoT-Risk-Assessment-Tool
